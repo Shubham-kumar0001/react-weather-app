@@ -73,6 +73,8 @@
 ---
 
 ## 📁 Project Structure
+
+```
 react-weather-app/
 │
 ├── src/
@@ -88,6 +90,7 @@ react-weather-app/
 ├── index.html
 ├── package.json
 └── vite.config.js
+```
 
 ---
 
